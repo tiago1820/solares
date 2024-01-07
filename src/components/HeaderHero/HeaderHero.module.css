@@ -1,0 +1,9 @@
+.headerHero {
+    color: white;
+}
+
+.heroCaption {
+    z-index: 100;
+    font-size: 35px;
+    padding-top: 8rem;
+}
